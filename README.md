@@ -8,7 +8,7 @@ Para que este ejemplo funcione, debes tener las canciones en formato MP3 en una 
 
 ## Reproductor de música (Versión 2)
 
-En la versión 2 se le agregó la función de buscar archivo de música:
+En la versión 2 se agregó la función de buscar archivo de música:
 
 Se agregó un formulario de búsqueda que permite al usuario buscar una canción específica. 
 Al enviar la solicitud POST con la búsqueda, el código usa la función scandir para recuperar todos los archivos de la carpeta de música y luego filtra las canciones que coinciden con la búsqueda. 
